@@ -1,7 +1,6 @@
 **Hi, I'm Bob-Luther Mbeku**
 
 
-
 **About Me**
 
 I am a passionate Data Analyst with a background in microbiology, dedicated to uncovering actionable insights through data. My journey into data analysis started with my curiosity about trends and patterns, which has now become my professional niche.
